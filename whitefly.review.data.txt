@@ -1,0 +1,49 @@
+Citation	Geography	Year1	Year2	Biotypes	Marker	Min.FST	Max.FST	AMOVA.within	Min.HO	Max.HO	Min.HE	Max.HE
+Delatte et al. 2006	Reunion	2001	2002	MEAM 1	SSR	0.01	0.17	NA	0.01	0.66	0.03	0.7
+Delatte et al. 2006	Reunion	2001	2002	Indian Ocean	SSR	0.01	0.28	NA	0.04	0.5	0.06	0.69
+Qu et al. 2020	China;Israel;Spain;United States	Unknown	Unknown	MED	SNP	0.078	0.346	NA	0.059	0.106	0.063	0.109
+Park et al. 2019	South Korea	2016	2018	MED	SSR	0	0.73	52	0.061	0.58	0.218	0.6
+Tahiri et al. 2013	Morocco	2003	2005	MEAM 1	SSR	0	0.48	NA	0.17	0.23	0.24	0.31
+Fontes et al. 2012	Brazil	2007	2009	MEAM 1	SSR	0.05	0.29	NA	0.23	0.43	0.38	0.53
+Diaz et al. 2015	Colombia	2011	2011	MEAM 1	SSR	0	0.16	92.2	0.24	0.32	0.32	0.43
+Dinsdale et al. 2012	Australia	2006	2007	MEAM 1	SSR	NA	NA	NA	0.24	0.44	0.46	0.61
+Tsagkarakou et al. 2012	Greece	2002	2007	MED	SSR	NA	NA	84.7	0.24	0.45	0.28	0.51
+Chu et al. 2014	China	2006	2012	MED	SSR	0	0.585	NA	0.287	0.552	0.29	0.599
+Ally et al. 2019	Uganda	1997	2017	SSA 1	SSR	0	0.15	92.5	0.29	0.43	0.46	0.67
+Dalmon et al. 2008	France	2003	2005	MEAM 1	SSR	NA	NA	96.7	0.271	0.271	0.359	0.359
+Dalmon et al. 2008	France	2003	2005	MED	SSR	NA	NA	NA	0.343	0.527	0.354	0.553
+Hsieh et al. 2011	Taiwan	2006	2008	MED	SSR	0	0.153	NA	0.43	0.52	0.45	0.58
+Tahiri et al. 2013	Morocco	2003	2005	MED	SSR	0	0.021	NA	0.45	0.57	0.52	0.61
+Abdelkrim et al. 2017	Tunisia	2014	2016	MEAM 1	SSR	NA	NA	88	NA	NA	NA	NA
+Abdelkrim et al. 2017	Tunisia	2014	2016	MED	SSR	NA	NA	90	NA	NA	NA	NA
+Abdullahi et al. 2003	Nigeria;Spain;Morocco;United States;India;United Kingdom;Central African Republic;Congo;Uganda;Kenya;Ivory Coast;Guinea;Iran;Ghana;Cameroon;Zambia;Togo;Benin	Unknown	Unknown	Unknown	RAPD	NA	NA	NA	NA	NA	NA	NA
+Chen et al. 2019	Benin;Ghana;Kenya;Liberia;Malawi;Mozambique;Sierra Leone;Togo;Uganda;Zambia;Cameroon;Congo;Nigeria;Tanzania	2009	2017	SSA	SNP	NA	NA	NA	NA	NA	NA	NA
+Chu et al. 2013	China	2011	2012	MED	SSR	NA	NA	NA	NA	NA	NA	NA
+De Barro 2005	India;Taiwan;Pakistan;Bangladesh;Vietnam;Sri Lanka;Indonesia;Malaysia;Thailand;Turkey;Australia	Unknown	Unknown	Unknown	SSR	NA	NA	NA	NA	NA	NA	NA
+Dickey et al. 2013	United States	Unknown	Unknown	MEAM 1	SSR	0.08	0.72	NA	NA	NA	NA	NA
+Dickey et al. 2013	United States	Unknown	Unknown	MED	SSR	0.1	0.49	NA	NA	NA	NA	NA
+Elfekih et al. 2018	Australia;United States;Turkmenistan;Iran;Reunion;Sudan;Burkina Faso;Israel;Greece;Italy;Croatia;France;Spain;Trinidad;Peru;Tahiti	2006	2013	MEAM 1;MED	SNP	NA	NA	NA	NA	NA	NA	NA
+Fahmy et al. 2015	Egypt	Unknown	Unknown	Unknown	RAPD	NA	NA	NA	NA	NA	NA	NA
+Gauthier et al. 2014	France;Spain;Morocco;Tunisia;Greece;Israel	2003	2009	MED	SSR	0	0.438	NA	NA	NA	NA	NA
+Gorsane et al. 2011	Tunisia	2009	2010	MEAM 1;MED	RFLP	NA	NA	NA	NA	NA	NA	NA
+Hadjistylli et al. 2016	United States;Australia;Burkina Faso; Cameroon;Canary Islands;China;Cyprus;Egypt;France;Greece;India;Israel;Italy;Ivory Coast;Puerto Rico;Mexico;French Polynesia;Morocco;Mozambique;Pakistan;Panama;Reunion;South Africa;Spain;Sudan;Turkey;Uganda;Yemen	1994	2009	MEAM 1	SSR	NA	NA	73	NA	NA	NA	NA
+Hadjistylli et al. 2016	United States;Australia;Burkina Faso; Cameroon;Canary Islands;China;Cyprus;Egypt;France;Greece;India;Israel;Italy;Ivory Coast;Puerto Rico;Mexico;French Polynesia;Morocco;Mozambique;Pakistan;Panama;Reunion;South Africa;Spain;Sudan;Turkey;Uganda;Yemen	1994	2009	MED	SSR	NA	NA	70.5	NA	NA	NA	NA
+Hsieh et al. 2007	China;Japan;South Korea;Taiwan	1991	2006	MEAM 1	COI	0	0.09	NA	NA	NA	NA	NA
+Hsieh et al. 2007	China;Japan;South Korea;Taiwan	1991	2006	MED	COI	0	0.2	NA	NA	NA	NA	NA
+Islam et al. 2018	Pakistan	2016	2016	MEAM 1;Asia II-1;Asia II-5;Asia II-7;Asia II-8	COI	NA	NA	NA	NA	NA	NA	NA
+Legg et al. 2014	Burundi;Congo;Kenya;Rwanda;Tanzania;Uganda	1997	2010	SSA 1-5	COI	NA	NA	NA	NA	NA	NA	NA
+Li et al. 2017	China	2011	2011	MEAM 1;MED	COI	NA	NA	NA	NA	NA	NA	NA
+Lima et al. 2002	Brazil	Unknown	Unknown	MEAM 1	RAPD	NA	NA	56	NA	NA	NA	NA
+Maruthi et al. 2007	Bangladesh	2003	2003	Unknown	COI	NA	NA	NA	NA	NA	NA	NA
+McKenzie et al. 2009	United States	2005	2008	MEAM 1;MED	COI	NA	NA	NA	NA	NA	NA	NA
+McKenzie et al. 2012	United States;Canada;Mexico	2005	2011	MEAM 1;MED;New World	COI	NA	NA	NA	NA	NA	NA	NA
+Moya et al. 2001	Spain;Portugal;Canary Islands	Unknown	Unknown	MEAM 1	RAPD	0.27	0.39	NA	NA	NA	NA	NA
+Moya et al. 2001	Spain;Portugal;Canary Islands	Unknown	Unknown	MED	RAPD	0.19	0.39	NA	NA	NA	NA	NA
+Rajaei et al. 2008	Iran	2004	2004	MEAM 1	RFLP	NA	NA	NA	NA	NA	NA	NA
+Simon et al. 2007	Spain;Canary Islands;Morocco;Italy;Egypt;Israel;Pakistan	1999	2001	MEAM 1	SSR	0.39	0.55	NA	NA	NA	NA	NA
+Simon et al. 2007	Spain;Canary Islands;Morocco;Italy;Egypt;Israel;Pakistan	1999	2001	MED	SSR	0.05	0.51	NA	NA	NA	NA	NA
+Tsagkarakou et al. 2007	Greece	2002	2004	MED	SSR	0.025	0.437	NA	NA	NA	NA	NA
+Valle et al. 2011	Brazil	Unknown	Unknown	MEAM 1	COI	NA	NA	NA	NA	NA	NA	NA
+Wool et al. 1994	Colombia	Unknown	Unknown	Unknown	EST	NA	NA	NA	NA	NA	NA	NA
+Wosula et al. 2017	Burundi;Cameroon;Central African Republic;Congo;Madagascar;Nigeria;Rwanda;Tanzania	2010	2011	SSA 1-5	SNP	NA	NA	NA	NA	NA	NA	NA
+Zhang et al. 2005	China	2000	2004	MEAM 1;MED	AFLP	NA	NA	NA	NA	NA	NA	NA
